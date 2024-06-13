@@ -15,6 +15,7 @@ wlroots-dv
 *.o
 *-protocol.c
 *-protocol.h
+*.patch
 .ccls-cache
 config.h
 log.txt
